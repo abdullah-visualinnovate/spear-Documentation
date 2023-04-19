@@ -2,10 +2,6 @@
 
 A Spear project created in flutter using BLOC. Spear supports both Android and Ios, clone the appropriate branches mentioned .
 
-    <div>
-    
-    <img src="C:\Users\abdul\OneDrive\Desktop\bloc\png" , width="300" >
-    </div>
 
 ## Getting Started
 
